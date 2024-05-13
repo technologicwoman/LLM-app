@@ -2,7 +2,7 @@ class MessagesController:
     def __init__(self, interface):
         self.interface = interface
         self.avartars = {
-            "assistant": "👨‍🍳",
+            "assistant": "https://raw.githubusercontent.com/technologicwoman/LLM-app/main/images/chefcito-avatar.png",
             "user": "👩‍🍳"
         }
 
